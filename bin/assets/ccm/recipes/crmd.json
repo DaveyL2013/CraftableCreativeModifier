@@ -1,0 +1,34 @@
+{ 
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "GNG",
+    "NMN",
+    "GNG"  ],
+  "key": {
+    "M": [
+      {
+        "item": "tconstruct:materials",
+        "data": 14
+      }
+    ],
+    
+    "N": [
+      {
+        "item": "minecraft:nether_star",
+        "data": 0
+      }
+    ],
+    
+    "G": [
+      {
+        "item": "minecraft:gold_block",
+        "data": 0
+      }
+    ]
+  },
+  "result":
+    {
+        "item": "tconstruct:materials",
+        "data": 50
+    }
+}
